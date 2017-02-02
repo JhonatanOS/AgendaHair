@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgendaHair</string>
+    <string name="txt_nomeComercio">Nome do Comercio</string>
+    <string name="txt_nomeProprietario">Nome do Proprietario</string>
+    <string name="txt_endereco">Endereço</string>
+    <string name="txt_contato">Contato</string>
+
+    <string name="txt_menu_salvar">Salvar</string>
+    <string name="txt_menu_limpar">Limpar Campos</string>
+</resources>
